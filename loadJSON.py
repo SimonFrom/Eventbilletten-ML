@@ -10,8 +10,8 @@ sellers = {
 }
 
 
-print(sellers["FIF HÃ¥ndbold"]["Configuration"]["VivenuAPIKey"])
-print(sellers_list[1]['Configuration']['VivenuURL'])
+#print(sellers["FIF HÃ¥ndbold"]["Configuration"]["VivenuAPIKey"])
+#print(sellers_list[1]['Configuration']['VivenuURL'])
 
 
 
