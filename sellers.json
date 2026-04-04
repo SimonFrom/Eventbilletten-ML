@@ -1,0 +1,1684 @@
+{
+  "Sellers": [
+    {
+      "SellerName": "Eventbilletten ApS",
+      "Note": "Demo",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_285ef2d9bcca2300e2fca24a49d0ac4153e33b57e62ed695f0f4c03a98b13243220f5f450647af22056d7e47cdf3c42c",
+        "Regnr": "",
+        "Accountno": "",
+        "Color": "white",
+        "Fees": "external",
+        "ShowInRepport": false,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "FIF Håndbold",
+      "Note": "",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_674285ea23414d0f482c5baaa2d11eb99241707cff12665f344528dfd414a2629b3010369f9a7414851551bf1f41cd73",
+        "Regnr": "",
+        "Accountno": "",
+        "Color": "red",
+        "Fees": "external",
+        "ShowInRepport": false,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "Musikalsk Fortælling om Kim Larsen",
+      "Note": "Ugentlig overførsel",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_65a0fee814ae976b5c2cfb2df05dcde5818325129808f2d88a667b9ccfd07c1d4c80cb9228593e171330d00fbd0bb721",
+        "Regnr": "",
+        "Accountno": "",
+        "Color": "orange",
+        "Fees": "internal",
+        "ShowInRepport": true,
+        "Kultunaut": true
+      }
+    },
+    {
+      "SellerName": "Bombardement",
+      "Note": "Skyldige billetter - Hold",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_7d2f75e2a7fc7b6c734dfa80d884bac361cebb8d725998036da5c0b5c3bcd857f8c647c298ba14be409b06544f7c558b",
+        "Regnr": "",
+        "Accountno": "",
+        "Color": "yellow",
+        "Fees": "external",
+        "ShowInRepport": true,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "Svendborgsund Bryghus",
+      "Note": "",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_9469410f61d95caeda933c90b21bb7039ce82c46bdaa1ae4b7ee81c01c5fbe3ec96655fba02e4eee8979a60963648eae",
+        "Regnr": "",
+        "Accountno": "",
+        "Color": "",
+        "Fees": "external",
+        "ShowInRepport": true,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "EventS",
+      "Note": "Skyldige billetter - Hold",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_93f4f2c113cfe50c94ae6c6d922a6f7d0a1eb456e47b7b2641d17ac8f3513834acd3783c6a7472b88ce6bca9d8bc4257",
+        "Regnr": "",
+        "Accountno": "",
+        "Color": "yellow",
+        "Fees": "external",
+        "ShowInRepport": true,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "Giant Steps",
+      "Note": "OBS: Local-Received - 500 gratis billetter",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_f218f995e7ec58fe9bfb1e35189009f7b55b50c9ddefae1f41502569f98134eb9ccbca1f068496b4b2e7dd2fc41389df",
+        "Regnr": "",
+        "Accountno": "",
+        "Color": "",
+        "Fees": "external",
+        "ShowInRepport": true,
+        "Kultunaut": true
+      }
+    },
+    {
+      "SellerName": "Bagenkop Vinterbaderfestival",
+      "Note": "Skyldige billetter - Hold",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_2adfc05acc5eb24e45d031e2bb5620c8a54499dba7c7dd2c0cb85dc9e0f3f0553f8fa2725f122481d15df7ad8c3ff261",
+        "Regnr": "2680",
+        "Accountno": "6299591644",
+        "Color": "white",
+        "Fees": "external",
+        "ShowInRepport": true,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "The Boyband",
+      "Note": "OBS: Local-Received + Discounts",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_1335c1806ee92fd31faea2b78b75e2884e91bd3e02de100cf82415119d584eabf9648564da197ccd81cf5de38a574bb2",
+        "Regnr": "",
+        "Accountno": "",
+        "Color": "",
+        "Fees": "external",
+        "ShowInRepport": true,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "Langelands Dykkerklub",
+      "Note": "",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_6c3351010bed04a512b12a17d52b38fd007753e1611ed7389aea6cc4035e1749ccc5d03c5a1457f0b2f67a31d0903f50",
+        "Regnr": "",
+        "Accountno": "",
+        "Color": "",
+        "Fees": "external",
+        "ShowInRepport": true,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "Fjelstrup Forsamlingshus",
+      "Note": "",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_8ff4711f6967ca93189080acdd5722cca994ae3ecc323b089f9bea826a15f36f34d098565666980ea6413937b1cdc932",
+        "Regnr": "",
+        "Accountno": "",
+        "Color": "",
+        "Fees": "external",
+        "ShowInRepport": true,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "Gudbjerg Forsamlingshus",
+      "Note": "",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_f7141e232453635f6086e29c1d0d8b7b7804620a9aa7a0f46bf093fd7fa20b2e2b37577392ae696d92db2eca8c918db9",
+        "Regnr": "",
+        "Accountno": "",
+        "Color": "",
+        "Fees": "external",
+        "ShowInRepport": true,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "Shores Langeland",
+      "Note": "Skyldige billetter - Hold",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_a2c44e93faae4b3699d7294cf2a7227f2ad2146dc5812552c379219cdd59f6e668cda02fe9c3827eb8cd3fba02cefaa2",
+        "Regnr": "",
+        "Accountno": "",
+        "Color": "yellow",
+        "Fees": "external",
+        "ShowInRepport": true,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "Sanderumgaard",
+      "Note": "",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_408d8a0f7b1ddef0663abc7dfbae4b1f1e6b03431c0e9b35db6c0050757aa25451170f27d18775be19e01a6eaef3f4d0",
+        "Regnr": "",
+        "Accountno": "",
+        "Color": "",
+        "Fees": "external",
+        "ShowInRepport": true,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "Kolding Kajakudlejning",
+      "Note": "",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_716e84c0426ddefc0705263942ad9c4703dbb55789675a5289e247ac54cf75e04acd722b0219abdd87ba4a717b61f7b4",
+        "Regnr": "",
+        "Accountno": "",
+        "Color": "",
+        "Fees": "external",
+        "ShowInRepport": true,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "Mad & Musik Skårup",
+      "Note": "Skyldige billetter - Hold næste event 17/1",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_f30904ac1a3383d77fcb1e632f391d8bc04457b46b81682baae46c64900a9b0049de2bdc6920327953a2febd1b8c4d81",
+        "Regnr": "",
+        "Accountno": "",
+        "Color": "yellow",
+        "Fees": "external",
+        "ShowInRepport": true,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "Louisa Norsfelt Terapi",
+      "Note": "",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_ad271d624bab85c52b8cfb69e449abb2edb21423d8d6144e6826d64da42fe7962f6aa233072822797c7eb5dc20c89b89",
+        "Regnr": "",
+        "Accountno": "",
+        "Color": "red",
+        "Fees": "external",
+        "ShowInRepport": false,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "Vinstuen Odense ApS",
+      "Note": "Skyldige billetter - Hold",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_4e2f98aed107e05fd18f7f315453643234258f05441f5439b16624bdfa7c14c2ab34783ea94ed4c43265acd552b050dd",
+        "Regnr": "",
+        "Accountno": "",
+        "Color": "red",
+        "Fees": "external",
+        "ShowInRepport": true,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "Nytårsfest Munkebo",
+      "Note": "Skyldige billetter - Hold",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_a8a54042d626a84c75c25142568de50f7f2b6ec0c24962d341f3703b7946da8b76a26c46299a8b8f07054eb102776b47",
+        "Regnr": "",
+        "Accountno": "",
+        "Color": "yellow",
+        "Fees": "external",
+        "ShowInRepport": true,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "Aarhus Fremad",
+      "Note": "",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_8fcabaca245faa4aa79f0a12ed89425c5aed7992150854b58ec9ecc72ac689866a15ba5a7d7c138256962a074bfd8c1e",
+        "Regnr": "",
+        "Accountno": "",
+        "Color": "",
+        "Fees": "external",
+        "ShowInRepport": true,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "Vejstrup Efterskole",
+      "Note": "Skyldige billetter - Hold",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_21f5900239f91d61e213a5711dc120bd4d7eeb6647039086356b49772db19a5a165de47026e9af2ccd87893c43115ade",
+        "Regnr": "",
+        "Accountno": "",
+        "Color": "yellow",
+        "Fees": "external",
+        "ShowInRepport": true,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "Fornemmelse.dk",
+      "Note": "",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_947af0c46df1479772e508e07472770b2bdfa245c7e781db8841484f2d17e7203f5d9c05305433a8adac3d85d838bcd2",
+        "Regnr": "",
+        "Accountno": "",
+        "Color": "red",
+        "Fees": "external",
+        "ShowInRepport": false,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "Cykling Odense",
+      "Note": "OBS: Local-Received - 300 gratis billetter",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_621e9f891d3fd96dc7a4c4f1111b1575964a495a489c55fbf5f71cb37743af5fcfb2d42caf04b3d2b9029807a0f4f7eb",
+        "Regnr": "",
+        "Accountno": "",
+        "Color": "",
+        "Fees": "external",
+        "ShowInRepport": true,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "Adventure Your Life",
+      "Note": "",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_ecc1dc47f626fd0d958cd63bf840fbfeab2f163d4906b13b8751afe7aa31c25dd5bca9a3eff1f2eeaa820926f5ba6ad4",
+        "Regnr": "",
+        "Accountno": "",
+        "Color": "red",
+        "Fees": "external",
+        "ShowInRepport": false,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "American Street Machines",
+      "Note": "",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_7dc04bb0a8cf793fa566ec026e056fb88cae6ac56d2d4c114758ce26a0f94980cc72f5f202c6aa68b8877b795e501603",
+        "Regnr": "",
+        "Accountno": "",
+        "Color": "",
+        "Fees": "external",
+        "ShowInRepport": true,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "Berns",
+      "Note": "Skyldige billetter - Hold",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_11c2aee2510b0f3836987cc23408d65f6e09fceaec671f030e40f6d35cecc66048c36cb6c8175cf17a887604f3055ac8",
+        "Regnr": "",
+        "Accountno": "",
+        "Color": "yellow",
+        "Fees": "external",
+        "ShowInRepport": true,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "DitoBus Excursions A/S",
+      "Note": "Skyldige billetter - Hold",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_f4993fe5133a3ce0d4531165d351324567e01dec7e8688bd837651ab6ef9e879f1581486a2e001ddb90515ad9dc96ff6",
+        "Regnr": "",
+        "Accountno": "",
+        "Color": "yellow",
+        "Fees": "external",
+        "ShowInRepport": true,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "GAARDHAVEN",
+      "Note": "",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_9461514a8b162d3e762958f84a38bbde5d7bd6755177a3b191a715067a7f8ebc1b012c3f017cab3899b7c0e504f85e7a",
+        "Regnr": "0860",
+        "Accountno": "8159549586",
+        "Color": "",
+        "Fees": "external",
+        "ShowInRepport": true,
+        "Kultunaut": true
+      }
+    },
+    {
+      "SellerName": "Langelands Efterskole",
+      "Note": "",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_fda014948aeeb34c9f833102eda5c5a686ce471d3ccf204259e187ea34f08b8c5aedb4ac40a45a80facc07c2751af9dc",
+        "Regnr": "",
+        "Accountno": "",
+        "Color": "",
+        "Fees": "external",
+        "ShowInRepport": true,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "Hotel Osted",
+      "Note": "",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_b86e1985477c025119f86d75b03813c2d5566d8bac55608f0186789508f2be93fce86034a97d70bffba3fce127690a7e",
+        "Regnr": "",
+        "Accountno": "",
+        "Color": "",
+        "Fees": "external",
+        "ShowInRepport": true,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "Nordlangelandshallen",
+      "Note": "",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_c7185884c724059dbb6f3fbf50248dad190556bae89db17f04e132469030e26f5f4829897ba485ff5aa5ada58f9613b6",
+        "Regnr": "",
+        "Accountno": "",
+        "Color": "",
+        "Fees": "external",
+        "ShowInRepport": true,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "SHERIF HAPS",
+      "Note": "Skyldige billetter - Hold",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_989682d8238bf60cb25902480dc3b6893db7f5927839d0a6ef69d923a2d5622268608211375985222af4bafb79ec00c4",
+        "Regnr": "",
+        "Accountno": "",
+        "Color": "yellow",
+        "Fees": "external",
+        "ShowInRepport": true,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "Thurø Bryghus",
+      "Note": "OBS: Local-Received",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_59cfc393602ee10daf314fe6eb8f4e4743cdfa3c4f9250960e4eec1c0be8a7d679b756ceea6e3ccca2e1322be085aabf",
+        "Regnr": "",
+        "Accountno": "",
+        "Color": "",
+        "Fees": "external",
+        "ShowInRepport": true,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "Ærø Hotel",
+      "Note": "",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_de2ab04029d7b1393426adac8119b2294d88ba0b09c656fbac084eac81d9af58ce235db2676e0a09286a9acfac694fab",
+        "Regnr": "",
+        "Accountno": "",
+        "Color": "red",
+        "Fees": "external",
+        "ShowInRepport": false,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "Kenneth Baun",
+      "Note": "Skyldige billetter - Hold",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_8473bbf27104a3febc030d4c6c2073c2b4a4c82c946a6e959af7fcdadd87695e5879723da066ae8bbbee4178a4624758",
+        "Regnr": "",
+        "Accountno": "",
+        "Color": "yellow",
+        "Fees": "external",
+        "ShowInRepport": true,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "Human Institute",
+      "Note": "Skyldige billetter - Hold",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_205be32e2878989fad73489d8f539c8bd61583295e6eea9a42d8b9ff3196b4dd3105e936e82fa62f9a49e5862b4b9e06",
+        "Regnr": "",
+        "Accountno": "",
+        "Color": "",
+        "Fees": "external",
+        "ShowInRepport": true,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "TEC",
+      "Note": "",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_05bb9afb01b5ac20d12ba979f30d615443b99efd4deaa6ae7e8c8ab32b7f9fce2d620c8feee22e351cdc2fe0ce34a4a4",
+        "Regnr": "",
+        "Accountno": "",
+        "Color": "yellow",
+        "Fees": "external",
+        "ShowInRepport": true,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "Langesø Golf",
+      "Note": "",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_bb19b5e777d875e14908d525746e8def38f8d93b28276094fa68108d7766974d1f7185bb8500c5905caa87a0b17206d2",
+        "Regnr": "",
+        "Accountno": "",
+        "Color": "",
+        "Fees": "external",
+        "ShowInRepport": true,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "Vissenbjerg Røverfest",
+      "Note": "",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_6490cb595e960c4bc9e6415fbdeb04b5d8f934adb92753ffd2024a97fc4a40823261bc96368e487127fc3a50428803d1",
+        "Regnr": "",
+        "Accountno": "",
+        "Color": "red",
+        "Fees": "external",
+        "ShowInRepport": true,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "Coworking Plus",
+      "Note": "Skyldige billetter - Hold",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_3d37ed4243bbb074d3f6c4f4453c9430083e4f227d100cf17feec8838f9982f40b6b3a09fdb529abcf61f5736aa39cc4",
+        "Regnr": "",
+        "Accountno": "",
+        "Color": "yellow",
+        "Fees": "external",
+        "ShowInRepport": true,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "Bierfest Bellinge",
+      "Note": "Skyldige billetter - Hold",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_feb0223d9fc161e6a4f5aae4266d1c03a8fd529844f8d5e8a45ba6079baca8859e6120aef54e994fd4c388f1e49e4a90",
+        "Regnr": "",
+        "Accountno": "",
+        "Color": "yellow",
+        "Fees": "external",
+        "ShowInRepport": true,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "Odense Håndbold Støtteforening",
+      "Note": "",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_404225d4df67d6fde2be9d6cc299a71b118724b72649af4f8a23dae548ed23545ca119c457822fc85d23472afcb14926",
+        "Regnr": "",
+        "Accountno": "",
+        "Color": "red",
+        "Fees": "external",
+        "ShowInRepport": false,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "Scene45",
+      "Note": "",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_78ecec5ff7429e81421bc1b1c6b3d64d5be37be11218efb64c388ae1c7ecb5a1f4ea127850ee11abeb73d386e0b6dfdd",
+        "Regnr": "",
+        "Accountno": "",
+        "Color": "",
+        "Fees": "external",
+        "ShowInRepport": true,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "Momlis",
+      "Note": "",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_109900809e7127b5dc5e7a8f8fb68c991d2273936b9ec3cbc62618a64902ed37247e6b72ddb919354b7f4f11e511d8eb",
+        "Regnr": "",
+        "Accountno": "",
+        "Color": "",
+        "Fees": "external",
+        "ShowInRepport": true,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "Gertrude Kiel",
+      "Note": "",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_926e089d2b9534c81113a8208e8a15bfd95d1ccb93812c07165b17000fddfe96b39e7c83c58ec88c2fdcad3770f039d7",
+        "Regnr": "",
+        "Accountno": "",
+        "Color": "",
+        "Fees": "external",
+        "ShowInRepport": true,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "Lahme",
+      "Note": "Skyldige billetter - Hold",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_1f2075801d8d6a3adf56982e62da01678c79c2bf890be130ede91d82e50af0a77f42a399b409574bf9d449c52df4432c",
+        "Regnr": "",
+        "Accountno": "",
+        "Color": "yellow",
+        "Fees": "external",
+        "ShowInRepport": true,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "Vejstrup Forsamlingshus",
+      "Note": "",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_13a9523d555fc30d7c5b0d15b36965b13e3c181d11f7f67b457390bf575a0ef2ca722712416578cc7876f4b8b245f944",
+        "Regnr": "",
+        "Accountno": "",
+        "Color": "",
+        "Fees": "external",
+        "ShowInRepport": true,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "Cana Care",
+      "Note": "",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_4ae9aa03e8c7d11a57ec08e08474ad3c3123b849cc604af1a7160b4c2e168f59e927d9fa03d76ec9377dc85841c8eb4b",
+        "Regnr": "",
+        "Accountno": "",
+        "Color": "",
+        "Fees": "external",
+        "ShowInRepport": true,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "Laboratoriet",
+      "Note": "OBS: Gavekort værdi",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_12f955aecfb952463928e67842da1cdc1edda6e69c06d544580e9348ffd0b389cc77c8c3c3f93929bae967f8bdfd1726",
+        "Regnr": "",
+        "Accountno": "",
+        "Color": "",
+        "Fees": "external",
+        "ShowInRepport": true,
+        "Kultunaut": true
+      }
+    },
+    {
+      "SellerName": "Vinspecialisten Bellinge",
+      "Note": "OBS: Local received",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_6d955e5931b96708a70669261bc5ec8b36501cf8dcf944ef9ff20d32840f7f795e59c0f34eecf3786f65a57e52447793",
+        "Regnr": "6869",
+        "Accountno": "1064676",
+        "Color": "",
+        "Fees": "external",
+        "ShowInRepport": true,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "LOOK & FEEL",
+      "Note": "",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_93d97f0faedae1da55c58c44728da8feeca1ef9741b7cab18dddb15e818652256240fd49272090260f894d5b6dabeb5a",
+        "Regnr": "",
+        "Accountno": "",
+        "Color": "",
+        "Fees": "external",
+        "ShowInRepport": true,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "Kandis",
+      "Note": "",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_001b35bb4e02314cf02b217d6eb2d316327d65ad44f77d6907db47a52c2e49da1a780d4b9b415bcafbf127d77302536e",
+        "Regnr": "",
+        "Accountno": "",
+        "Color": "",
+        "Fees": "external",
+        "ShowInRepport": true,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "Sundsøre Hallen",
+      "Note": "Basis 4+4+8",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_e26adc61aeb948050bf6c9e8ebacf81a11d9e2565386bc0ef8aa9a2ee796bda7a4d88b3e609ccaa4f1e4b128735d94e4",
+        "Regnr": "",
+        "Accountno": "",
+        "Color": "",
+        "Fees": "external",
+        "ShowInRepport": true,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "Pichardts",
+      "Note": "40kr internt",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_9f43381ea3435bde71f9f00b7eebcca7007ed4151b228753e275d88c993a0c96a15aa628ce331dd4bc7f94f6d431ecf2",
+        "Regnr": "",
+        "Accountno": "",
+        "Color": "white",
+        "Fees": "external",
+        "ShowInRepport": true,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "Vegan Events Copenhagen",
+      "Note": "Skyldige billetter - Hold",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_dd45b63cf2c8789140127208a408951742abf8fa1a1067ebc6745180599e5d04e34a1b26deaddce91c1d30f8f718c3d4",
+        "Regnr": "",
+        "Accountno": "",
+        "Color": "yellow",
+        "Fees": "external",
+        "ShowInRepport": true,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "Force Nordic",
+      "Note": "OBS: Discounts",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_3659fe074f012d56ed0f96e4a6c5805bb4d3979945a29068f68704e3c6628701d5be8d3560a1e52921a457a3b30d9533",
+        "Regnr": "",
+        "Accountno": "",
+        "Color": "",
+        "Fees": "internal",
+        "ShowInRepport": true,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "Aarslev Boldklub",
+      "Note": "",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_ad742f00ef71c79672ac075d5b4a28df07eeb457a1675dfb00e0a6606a49af1ee0aa1e26ab68c929cf2111c1d10ddad6",
+        "Regnr": "",
+        "Accountno": "",
+        "Color": "red",
+        "Fees": "external",
+        "ShowInRepport": false,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "Staal Music",
+      "Note": "",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_3757f714acc611d1b044f0207e96d18ab1594cc3783c01ea38c2b470318db8a689afd57292fa76385c0c545ce6abe1a4",
+        "Regnr": "",
+        "Accountno": "",
+        "Color": "",
+        "Fees": "external",
+        "ShowInRepport": true,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "Årslev forsamlings- og kulturhus",
+      "Note": "",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_a920cecbfcba4de10e87fd948275d65ce68177b677a2a5f96fe12bb5bf5da04b977150b494100c7788388d5e23fa18ff",
+        "Regnr": "",
+        "Accountno": "",
+        "Color": "red",
+        "Fees": "external",
+        "ShowInRepport": false,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "Vin & Kvinder",
+      "Note": "",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_617fbbcaa7de302e511d08bc016280f9465c09cc02add1513bc19168866c14de72488a8d66c7b76de4b8719eefdd45be",
+        "Regnr": "",
+        "Accountno": "",
+        "Color": "red",
+        "Fees": "external",
+        "ShowInRepport": false,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "Kirstine Bonde Entertainment",
+      "Note": "",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_dbfe64f3a87d05620b7c26487e7a13de0de6451406ff7bce760e41a9cd61b36b0da3ec5610197ee483d229e9345e9d17",
+        "Regnr": "",
+        "Accountno": "",
+        "Color": "",
+        "Fees": "external",
+        "ShowInRepport": true,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "Vollsmose Boxing",
+      "Note": "Skyldige billetter - Hold",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_987fcdf904a63b05741cb930d29691711a62160f1dbc5a9b8cd4b8439c356d738e206bdbb52e56778762dea5336c959b",
+        "Regnr": "",
+        "Accountno": "",
+        "Color": "yellow",
+        "Fees": "external",
+        "ShowInRepport": true,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "Kort Varsel",
+      "Note": "",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_21420cca6a08a5bcdaca7a44adc75ed6a05df663e01dbe987af72482c92f4c00d1171c47a2006bd446f4da4c8897e927",
+        "Regnr": "",
+        "Accountno": "",
+        "Color": "red",
+        "Fees": "external",
+        "ShowInRepport": false,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "Maiken Juul",
+      "Note": "",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_77be13407d29734f82fa9d25a2eda59bd69335e7371ff39af061c9cc50c13ee18fe4d333adb04ed1bfdd5c2e05737b05",
+        "Regnr": "",
+        "Accountno": "",
+        "Color": "red",
+        "Fees": "external",
+        "ShowInRepport": false,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "Chaplin",
+      "Note": "OBS: Gratis billetter = 10 kr. m. moms",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_96582b17b1ca6ad12d037809a956b9ed5303136e7c9bd703fea00ef16042ee33ae81ceed94571154296e539e0a7b2031",
+        "Regnr": "",
+        "Accountno": "",
+        "Color": "",
+        "Fees": "external",
+        "ShowInRepport": true,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "SUS Håndbold",
+      "Note": "",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_5961423f0da3749424dc423439cfffae54c42de8418735655c06c16520cd3fc8837229af729fbcb810b46cd7b098aa24",
+        "Regnr": "",
+        "Accountno": "",
+        "Color": "red",
+        "Fees": "external",
+        "ShowInRepport": false,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "Foreningen Langeland-Sammen",
+      "Note": "OBS: Discounts",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_5ddd0fc19efa20122abb5dd1a40f18e303fa89c13416cf869b15ddcd0adfd2732420cc2c2ff2c5c1a8d0bab8b1322d06",
+        "Regnr": "",
+        "Accountno": "",
+        "Color": "",
+        "Fees": "external",
+        "ShowInRepport": true,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "KTG Plus",
+      "Note": "Skyldige billetter - Hold",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_f6984449f4378c36c330d749bac319da7f394b9e0a8571665d18f942ec2f3f2e7cb4c65d7c6bcc79d474e3ba21fdd3d5",
+        "Regnr": "",
+        "Accountno": "",
+        "Color": "yellow",
+        "Fees": "external",
+        "ShowInRepport": true,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "Vinspecialisten Nyborg",
+      "Note": "",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_078f27bfa0b2e4e6ceb4babe9724549e9f4f18c7773098c112cd94428db64bc0a553830577d4d8e0ebc6febd23618d1e",
+        "Regnr": "",
+        "Accountno": "",
+        "Color": "",
+        "Fees": "external",
+        "ShowInRepport": true,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "Gå Mig Glad",
+      "Note": "",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_3896bf970c6ee93025aa959426773c00fe3175f7ef71379fc9c74544f86487e147b3c7683aeb1c594a140c9cc4acb495",
+        "Regnr": "",
+        "Accountno": "",
+        "Color": "red",
+        "Fees": "external",
+        "ShowInRepport": true,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "Cavithe ApS",
+      "Note": "",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_55e2c15e891260a252513d608c8ce34d9b1109ff902358b835b6405b7da871c3ff8a7f92ad8641bcc44c6b23e8460f9f",
+        "Regnr": "",
+        "Accountno": "",
+        "Color": "red",
+        "Fees": "external",
+        "ShowInRepport": false,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "Søgård og omegn",
+      "Note": "",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_abb8e7373d9c2b816425fc094413a3f59a2fa91071a34a4ca28cf3b18aadd1a6060b769400bec9c1123ccd073c16468e",
+        "Regnr": "",
+        "Accountno": "",
+        "Color": "",
+        "Fees": "external",
+        "ShowInRepport": true,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "Klinik Lillemor",
+      "Note": "",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_8d90f430050da11a22bed8cbdd469f5cf51ebd7781d640db8864bdfffd250aa23073ccf6a4e22f84873feb7cb385ad96",
+        "Regnr": "",
+        "Accountno": "",
+        "Color": "",
+        "Fees": "external",
+        "ShowInRepport": true,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "Marianne På Gården",
+      "Note": "",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_62ba72ee73f33e6089ecfc3e064b5ff6c573e88122ae3a79b582f0fa443109b114e6c41da140870a1f72465ce64f6c0d",
+        "Regnr": "",
+        "Accountno": "",
+        "Color": "",
+        "Fees": "external",
+        "ShowInRepport": true,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "Bryg Bar",
+      "Note": "",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_0d833f7729c7cfc6bc017ab9ba785a48a243bbffb23b89dacacbe4875ee5fce5cefde242a72c164dea59d2e43950f318",
+        "Regnr": "",
+        "Accountno": "",
+        "Color": "red",
+        "Fees": "external",
+        "ShowInRepport": false,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "Midtfyns Bryghus",
+      "Note": "",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_ceb60a604aa409cbc95def8030f8d0b0e5b7d732c74baa94e3f7b2bbead520201747fbe7662be841e296a84adda099b5",
+        "Regnr": "",
+        "Accountno": "",
+        "Color": "",
+        "Fees": "external",
+        "ShowInRepport": true,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "Hanneliva Parvine",
+      "Note": "",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_69681bce442d072a686f9776f3da876671384f20bc81c378db3e1b137fd92a09c251921912720f790a1c4437efd4f1fb",
+        "Regnr": "",
+        "Accountno": "",
+        "Color": "red",
+        "Fees": "external",
+        "ShowInRepport": false,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "Gerlev Elevforening",
+      "Note": "",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_cb3be7ef82c6639d99343983d8afb68431532da5e62112f72b335486730651988251708e33d0948bc17a981f2bc58004",
+        "Regnr": "",
+        "Accountno": "",
+        "Color": "",
+        "Fees": "external",
+        "ShowInRepport": true,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "Datasign",
+      "Note": "Demo",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_4a40903da85986a7da305401bdaa366cd17fcaffb1a29a189c7e1a3758cdc709c35cc6c6839666342b79a62627200bc5",
+        "Regnr": "",
+        "Accountno": "",
+        "Color": "",
+        "Fees": "external",
+        "ShowInRepport": true,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "SfB Oure FA",
+      "Note": "",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_45d898fed08cae307356836b26d4c452382d6491a333f8cc04d5f99fb5d6a28506f4be4ef813fc68e69942b74c4100b0",
+        "Regnr": "",
+        "Accountno": "",
+        "Color": "",
+        "Fees": "external",
+        "ShowInRepport": true,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "Bokseklubben Rollo",
+      "Note": "Skyldige billetter - Hold",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_4ca9521661490fca36c6871e17fab2cfe573835db42d38dc6fbaf469180a1ff5da71e9b5b9ff5d8f2ef27a23c112f978",
+        "Regnr": "",
+        "Accountno": "",
+        "Color": "yellow",
+        "Fees": "external",
+        "ShowInRepport": true,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "RESONANS",
+      "Note": "",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_6090de185cf09b350bedc65be929cfc695abeca32f54d8aa1403da396eafe067a1a362cafe7f80c8c73be9c2f5816a25",
+        "Regnr": "",
+        "Accountno": "",
+        "Color": "",
+        "Fees": "external",
+        "ShowInRepport": true,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "Active Water camps Langeland",
+      "Note": "Skyldige billetter - Hold OBS: Discounts",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_a539f0e7c12a4bf6c0bcc14049cb7f01ef09efe4b74cdea768f42f23568dc98c4d719d3b4a1e4d167da042ad3bc1825c",
+        "Regnr": "",
+        "Accountno": "",
+        "Color": "yellow",
+        "Fees": "external",
+        "ShowInRepport": true,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "Daglige Menneskelighed",
+      "Note": "",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_5185e929f047bcc072420f8affa8b8d546d5de2ec3f8b00b2276552c1c900bd3a1c3030b0744f309b4ccc7190c05a833",
+        "Regnr": "",
+        "Accountno": "",
+        "Color": "red",
+        "Fees": "external",
+        "ShowInRepport": false,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "Dansk Humanitær Hjælp",
+      "Note": "",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_f0e6923e33877ed459f46ee402a862cb1fa02c096ff96203c0b0162625e7f29f4a7243816254351381dee278cba5d394",
+        "Regnr": "",
+        "Accountno": "",
+        "Color": "red",
+        "Fees": "external",
+        "ShowInRepport": false,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "GoOut",
+      "Note": "",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_c4243863249626b9bd32bec9cf45dfec03873e18548b46b4fedb3d4552dbbb855d50e9b288825f4f22f2cd182780c1ed",
+        "Regnr": "",
+        "Accountno": "",
+        "Color": "red",
+        "Fees": "external",
+        "ShowInRepport": false,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "Vinspecialisten Svendborg ",
+      "Note": "intern 5 + 5 ",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_d2b263b3b12a219e4c1be7f6e8b39727bc17c3bef7aa094e349faa80b7e9ef50ef77cfd224587d0e6772f13f7bea3e57",
+        "Regnr": "",
+        "Accountno": "",
+        "Color": "",
+        "Fees": "external",
+        "ShowInRepport": true,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "KEL Entertainment (Simon & Garfunkel )",
+      "Note": "Ny basis   ( 25 kr på billetter m. seats + usarbejdelse)  ",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_b75efee4441d8305a8b86aae53780d30be0ba7ff9f95067cdb44af5912de11cf618481667ca0ea5f345ff1714c188735",
+        "Regnr": "",
+        "Accountno": "",
+        "Color": "",
+        "Fees": "external",
+        "ShowInRepport": true,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "Eventbilletten Live",
+      "Note": "",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_9750fcdccc30ba1c2d15ea6af35514c0fcbd73a9de2e49399db279b0f2ffe14639ab95ec2e997f85a2d86f1b8a081bbc",
+        "Regnr": "",
+        "Accountno": "",
+        "Color": "white",
+        "Fees": "external",
+        "ShowInRepport": false,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "Rebildselskabet",
+      "Note": "",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_e1316d4748eb0675334e450e979261b0d0b280cf05b8dcefed70a775c8ffcb629d8e9b57f22a367903defd1b787fad2a",
+        "Regnr": "",
+        "Accountno": "",
+        "Color": "",
+        "Fees": "external",
+        "ShowInRepport": true,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "Langesø",
+      "Note": "",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_7366e68ca3cf88d5d1ccd3477236611546ccd8b1c4754ae5eb65ef2db6ca16d2466233b4202432b1ef3eb80ceb25d1bb",
+        "Regnr": "",
+        "Accountno": "",
+        "Color": "",
+        "Fees": "external",
+        "ShowInRepport": true,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "Helsam",
+      "Note": "udbetaling om md.",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_269a318df45a0029b06f64e87eb0433f72d00bc2491ce58c8f16b086fa83c201dae25d3ea55caba33fe9970479f7796c",
+        "Regnr": "",
+        "Accountno": "",
+        "Color": "",
+        "Fees": "external",
+        "ShowInRepport": true,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "Renault Danmark",
+      "Note": "Gratis billetter 6 - faktureres",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_38fdbfbadab3099035878fff7936586d3e22c1daec98de7406558b8911ec69d9b509656ddc9742e9cf7cefb020c96cc0",
+        "Regnr": "",
+        "Accountno": "",
+        "Color": "yellow",
+        "Fees": "external",
+        "ShowInRepport": true,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "Vinspecialisten Middelfart",
+      "Note": "intern 5 + 5 ",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_f0aceefaa7b6c44bb59625a75c40c3134ad266a02b81fddfff03d18352678e4e8159b850dbc40c2bd4230d94d6245ba9",
+        "Regnr": "",
+        "Accountno": "",
+        "Color": "",
+        "Fees": "external",
+        "ShowInRepport": true,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "Sansestærk.dk",
+      "Note": "Basis 4+4+8",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_1372ea1f3b2ddcc7a060e7d81310e30721cfa8436554a9ac891717a3ac2a95155ce93a070548e5efa44ec36276891bdb",
+        "Regnr": "",
+        "Accountno": "",
+        "Color": "",
+        "Fees": "external",
+        "ShowInRepport": true,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "Og Bering",
+      "Note": "Basis 4+4+8",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_7156788f29c450ca0e04d1588d99d2f38fdfa7a17e77ed43a7848fcda6e3d6aa7018341ffa14c4a1b1d13221a7663660",
+        "Regnr": "",
+        "Accountno": "",
+        "Color": "",
+        "Fees": "external",
+        "ShowInRepport": true,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "Aamølle Gæstgiveri",
+      "Note": "Basis 4+4+8",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_291ef4d19e6ced8ade2c0e674dd3f2c5e71a57a16f495f1621a9bea34c4ca1debb22f6dfa83c8b85995995c84abd3336",
+        "Regnr": "",
+        "Accountno": "",
+        "Color": "",
+        "Fees": "external",
+        "ShowInRepport": true,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "Dansk Saunaselskab",
+      "Note": "Basis+ 5+5",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_8509892e03e01c4e2a551df2e43d3fef8792d868d49f9be240f8dc2bf837703f0102ca06086b37b56ac54c56f1889d71",
+        "Regnr": "",
+        "Accountno": "",
+        "Color": "",
+        "Fees": "external",
+        "ShowInRepport": true,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "Foreningen STARTSvendborg",
+      "Note": "20+10 = 300 - 5+5 = over",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_c7ae1410363e074d550da3aca46e5d0ffc6573f8c4727d2358f12d0dd3752c4398b97c67ad6a03b80105af116e6b9bd8",
+        "Regnr": "0817",
+        "Accountno": "8159790917",
+        "Color": "yellow",
+        "Fees": "external",
+        "ShowInRepport": true,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "Næsby Boldklub",
+      "Note": "Premium 5 + 5 intern. ",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_b413c79d0b744c642e58c37c17a8b4e5d72bc48fc8f9dc96da8d3ffeb6b02e65decb5302035d66be8ef8415bf44ad9c7",
+        "Regnr": "",
+        "Accountno": "",
+        "Color": "",
+        "Fees": "external",
+        "ShowInRepport": true,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "Karting Award Danmark",
+      "Note": "Premium 5 + 5 Ekstern - Hold udbetaling til 17/11",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_d0b411e22d0a156f2a67a45603010de75067117ecf1fb4f52e592a9ae003fe9a0d0a421e06ae7e6c9ada15e8071eb3ef",
+        "Regnr": "",
+        "Accountno": "",
+        "Color": "yellow",
+        "Fees": "external",
+        "ShowInRepport": true,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "Vinding Ungdoms- og Idrætsforening",
+      "Note": "Basis 4+4+8",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_6e0c8e8652f1189e566d9432a70cfa592c1b54a658c9398c548b6f836d22f151fa52be7418a3cf5f3dd655a07d7eb552",
+        "Regnr": "",
+        "Accountno": "",
+        "Color": "white",
+        "Fees": "external",
+        "ShowInRepport": true,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "DFSA ",
+      "Note": "Premium 5 + 5 intern (8 kr free tickets) discount, brugere mm. ",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_148d57a7e8aa55dddb597fe9f64de6b9c40afc1cae3556958a796e2507904c8c8464a0d9b483c5750ff7a488fdaf99b1",
+        "Regnr": "",
+        "Accountno": "",
+        "Color": "white",
+        "Fees": "external",
+        "ShowInRepport": true,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "GitteSaldern.DK",
+      "Note": "Basis 4 + 4 + 8 ",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_9bb06feb1ea1d31be422c9bb2e68afade4a550144c8ed05a141369f681777b507800d29e156067f637fd9eddd303a28b",
+        "Regnr": "6847",
+        "Accountno": "1094075",
+        "Color": "",
+        "Fees": "external",
+        "ShowInRepport": true,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "Seyer Restaurant & Vinbar",
+      "Note": "Premium 5 + 5 intern",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_6f7ae0e787fbb5ddf20d7cf02f73f71b446c8d436c2fa736a518657e448c26a3fd64943ae32d949fd2725985d54dae43",
+        "Regnr": "2010",
+        "Accountno": "9042834480",
+        "Color": "red",
+        "Fees": "external",
+        "ShowInRepport": true,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "JK Production / We are the 90s",
+      "Note": "Premium 5 + 5 ekstern - Skiftet til Gul Har fået okt md",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_18dbb7d2b9ea064e42e5c4ca19585fc01a2d1269a22e96cfddde651f82ed922b39fe4a5ac9b97352d9fa1a3b2fbabaf7",
+        "Regnr": "3409",
+        "Accountno": "13000883",
+        "Color": "yellow",
+        "Fees": "external",
+        "ShowInRepport": true,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "Odense Sport & Event A/S",
+      "Note": "Premium 5+5+8",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_0129623714c945107bdbfa29750115324cf22127350f49b8b79146855ad4e15577a7a38e4cda80beed9982c9921857bd",
+        "Regnr": "0828",
+        "Accountno": "3159035",
+        "Color": "yellow",
+        "Fees": "external",
+        "ShowInRepport": true,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "STORM Advokatfirma",
+      "Note": "Premium 5+5+ 8 (gratis billetter 10kr)",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_d4975962fb02fbf6b12df9b9922e82719174b95ff7fac4cd3cd8517436a732d3b648927afbcb64ba0b4a623441dfd74b",
+        "Regnr": "8117",
+        "Accountno": "3154062",
+        "Color": "yellow",
+        "Fees": "external",
+        "ShowInRepport": true,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "Bike4clubs ApS",
+      "Note": "Premium intern 5+5",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_92d65cdc7cdd7a93f00e26cde7ebaf22a80b6203e7d572e3403464e9d3def1c995bb9ceaefd6d10d33da97a587ceeec9",
+        "Regnr": "5960",
+        "Accountno": "0008077356",
+        "Color": "white",
+        "Fees": "external",
+        "ShowInRepport": true,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "Espe Borgerforening ",
+      "Note": "Premium 5 +5 ",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_3b33d7ed9210a8143341d48f57f8e18c09bd9b612fc4c7eee2669fa2164264f8b599840084e4c43508f3156e3f41292a",
+        "Regnr": "0828",
+        "Accountno": "0002513773",
+        "Color": "white",
+        "Fees": "external",
+        "ShowInRepport": true,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "Berit Filstrup",
+      "Note": "Bais 4+4+8",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_9967a8c55309c0b404e5dd20067d6d9b15179844cfd0b3c5edbf0969fcebfe0e8036d618ada9726d84cfcb091ca0f402",
+        "Regnr": "3409",
+        "Accountno": "13270708",
+        "Color": "white",
+        "Fees": "external",
+        "ShowInRepport": true,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "Foreningen ØrBike",
+      "Note": "Premium intern speciel opsætning",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_867504538bd8e4f689ad309d566af9ba5285d66233b7ef797067614e84f8a3fe3a350250ab5895715a7bafd0d2f6ed66",
+        "Regnr": "7045",
+        "Accountno": "0001630167",
+        "Color": "yellow",
+        "Fees": "internal",
+        "ShowInRepport": true,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "Showtown Production ApS",
+      "Note": "Premium - Speciel 30 kr intern + 10 ordre + 10 gratis",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_ea6f1a31f66a8846d384342812288da6612e030e056d5dbbaab4781b3df29edf38995a3975eda65c64080a60b2640b2e",
+        "Regnr": "6845",
+        "Accountno": "2569764",
+        "Color": "yellow",
+        "Fees": "external",
+        "ShowInRepport": true,
+        "Kultunaut": true
+      }
+    },
+    {
+      "SellerName": "Hadsten Bio",
+      "Note": "Premium 5+5+8 intern",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_cbf14456d803fd2bdf1241b13de1ab6d498f132be86e07f918245074c39ddbc1b9c7ccef3ac2edf67fdc8b997734f715",
+        "Regnr": "",
+        "Accountno": "",
+        "Color": "white",
+        "Fees": "external",
+        "ShowInRepport": true,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "Dansk Freestyle Union",
+      "Note": "Premium 5+5 - hold penge til de får kontonr",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_a4496c11054d4b73e2d542ce02e0f218d1e5c29670d718b73d3290f00a3ffc05f3a8f91b7bbf413cd8c564c7fb8e92b3",
+        "Regnr": "",
+        "Accountno": "",
+        "Color": "yellow",
+        "Fees": "external",
+        "ShowInRepport": true,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "Vinporten ApS",
+      "Note": "Basis 4+4+8",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_ed54bb1a3bf8f85e8d326777fed300fea4f8d400c963d2316edec5e37e8791851197ac247592091bff73887fe9b574aa",
+        "Regnr": "3409",
+        "Accountno": "13316902",
+        "Color": "yellow",
+        "Fees": "external",
+        "ShowInRepport": true,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "den grønne pause",
+      "Note": "Premium 5+5 + abb og produkt og intern gebyr",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_e955fb98d60a5cd7b66772b8f080462159f01ffb33dffa668a7219cb8db2eb48e2275be7e538d6e1162de9f10c4b8ec7",
+        "Regnr": "5772",
+        "Accountno": "9042162695",
+        "Color": "white",
+        "Fees": "external",
+        "ShowInRepport": true,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "Broby Sportsefterskole",
+      "Note": "Basis",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_7bf849bdbbfeb92dfedc9c9a327bb93df486dffe4c5fbad1abb724e25a27326408050603e273c113531324a09ebbb982",
+        "Regnr": "7681",
+        "Accountno": "2767721",
+        "Color": "white",
+        "Fees": "external",
+        "ShowInRepport": true,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "Bakkelandets Musik- og Kulturforening",
+      "Note": "Premium+ 5% + 6kr + abb og pos m.m",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_f3815f6fdf55c24e2617c47e5181d850a53edb9e71851be3eab55ccd801a5ca1b6b0f64b4cfbccaa874b5fba9fa9079c",
+        "Regnr": "6124",
+        "Accountno": "4170703117",
+        "Color": "white",
+        "Fees": "internal",
+        "ShowInRepport": true,
+        "Kultunaut": false
+      }
+    },
+    {
+      "SellerName": "Kulturhuset Støberiet Bogense",
+      "Note": "Premium 5+5 + evt. ordre på 10 hvis vi skal lave opsætning fremadrettet",
+      "Configuration": {
+        "VivenuURL": "https://vivenu.com",
+        "VivenuAPIKey": "key_8c7249fba7460fc8fa5d69a9e8311f360f062a601270ef495b2a0e3529077a096114969cd1f8598f8f0133c440375c6d",
+        "Regnr": "7600",
+        "Accountno": "1003102",
+        "Color": "yellow",
+        "Fees": "external",
+        "ShowInRepport": true,
+        "Kultunaut": false
+      }
+    }
+  ]
+}
