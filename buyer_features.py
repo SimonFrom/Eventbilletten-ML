@@ -1,3 +1,5 @@
+import os.path
+
 import pandas as pd
 import numpy as np
 import ast
@@ -289,7 +291,12 @@ print(" ------ Add distance ------ :")
 df = addDistance(df)
 
 print(" ------ Save features ------ :")
-saveBuyerFeatures(df, outputPath="csv/buyerFeatures.csv")
+outputPath = "csv/buyerFeatures.csv"
+
+if os.path.exists(outputPath):
+    print(f"CSV already exists at {outputPath}")
+else:
+    saveBuyerFeatures(df, outputPath=outputPath)
 
 
 
