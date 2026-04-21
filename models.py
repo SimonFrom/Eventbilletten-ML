@@ -10,7 +10,7 @@ class EventDrawProfileModel(BaseModel):
     event_postal: Optional[str]
     event_lat: Optional[float]
     max_amount: Optional[float]
-    event_start: Optional[datetime]
+    event_start: Optional[str]
     total_orders: Optional[int]
     total_tickets: Optional[float]
     total_revenue: Optional[float]
@@ -19,8 +19,8 @@ class EventDrawProfileModel(BaseModel):
     median_tickets_per_order: Optional[float]
     avg_days_before_event: Optional[float]
     median_days_before_event: Optional[float]
-    n_unique_buyer_postals: Optional[int]
-    n_orders_with_distance: Optional[int]
+    n_unique_buyer_postals: Optional[float]
+    n_orders_with_distance: Optional[float]
     avg_distance_km: Optional[float]
     median_distance_km: Optional[float]
     p80_distance_km: Optional[float]
@@ -38,10 +38,10 @@ class SellWindowMetricsModel(BaseModel):
     event_id: str
     seller_category: Optional[str]
     event_city: Optional[str]
-    event_start: Optional[datetime]
-    sell_start: Optional[datetime]
+    event_start: Optional[str]
+    sell_start: Optional[str]
     total_tickets: Optional[float]
-    total_orders: Optional[int]
+    total_orders: Optional[float]
     max_amount: Optional[float]
     sales_window_days: Optional[float]
     median_days_before_event: Optional[float]
@@ -58,7 +58,7 @@ class SellWindowMetricsModel(BaseModel):
 
 class SellWindowCategoryModel(BaseModel):
     seller_category: str
-    n_events: Optional[int]
+    n_events: Optional[float]
     avg_sell_through_rate: Optional[float]
     avg_sales_window: Optional[float]
     median_days_before_event: Optional[float]
@@ -71,5 +71,5 @@ class SellWindowCategoryModel(BaseModel):
 
 
 class ApiResponse(BaseModel):
-    count: int
+    count: float
     data: list
