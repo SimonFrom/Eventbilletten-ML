@@ -60,6 +60,8 @@ def buildEventDrawProfile(df: pd.DataFrame) -> pd.DataFrame:
         max_distance_km=('distance_km', 'max'),
     ).reset_index()
 
+    profile['event_postal'] = profile['event_postal'].astype(str).replace('nan', None)
+
     # ── Sell through rate ──────────────────────────────────────
     # Clip at 1.0 to handle edge cases where tickets sold
     # slightly exceeds max_amount due to data quirks

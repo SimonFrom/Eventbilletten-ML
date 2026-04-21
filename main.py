@@ -42,17 +42,17 @@ def root():
     return {"status": "OK", "message": "Welcome to Eventbilletten Machine Learning API"}
 
 # Returns draw profile metrics for every event
-@app.get("/event-draw-profile", response_model=ApiResponse)
+@app.get("/event-draw-profile")
 def event_draw_profile():
     data = getEventDrawProfile(buyer_features_path)
     return {"count": len(data), "data": data}
 
-@app.get("/sell-window", response_model=ApiResponse)
+@app.get("/sell-window")
 def sell_window():
     data = getSellWindowMetrics(buyer_features_path)
     return {"count": len(data), "data": data}
 
-@app.get("/sell-window/categories", response_model=ApiResponse)
+@app.get("/sell-window/categories")
 def sell_window_categories():
     data = getSellWindowCategoryProfile(buyer_features_path)
     return {"count": len(data), "data": data}
