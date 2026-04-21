@@ -11,6 +11,9 @@ Sellers know when to optimize their marketing and selling strategy
 import pandas as pd
 import numpy as np
 
+from event_draw_profile import cleanForJson
+
+
 def loadBuyerFeatures(path: str) -> pd.DataFrame:
     df = pd.read_csv(path, low_memory=False)
     df['created_at'] = pd.to_datetime(df['created_at'], utc=True, errors='coerce')
@@ -78,7 +81,7 @@ def buildSellWindowMetrics(df: pd.DataFrame) -> pd.DataFrame:
     return result
 
 # ---- Metrics by category ----
-def buildMetricsByCategory(df: pd.DataFrame, meteics: pd.DataFrame) -> pd.DataFrame:
+def buildMetricsByCategory(metrics: pd.DataFrame) -> pd.DataFrame:
     window_cols = [
         'pct_sold_0_7_days',
         'pct_sold_8_14_days',
@@ -115,13 +118,13 @@ def saveSellWindow(metrics: pd.DataFrame,
 def getSellWindowMetrics(buyerFeaturesPath: str) -> list[dict]:
     df = loadBuyerFeatures(buyerFeaturesPath)
     metrics = buildSellWindowMetrics(df)
-    return metrics.to_dict('records')
+    return cleanForJson(metrics.to_dict('records'))
 
 def getSellWindowCategoryProfile(buyerFeaturesPath: str) -> list[dict]:
     df = loadBuyerFeatures(buyerFeaturesPath)
     metrics = buildSellWindowMetrics(df)
-    category_profile = buildMetricsByCategory(df, metrics)
-    return category_profile.to_dict('records')
+    category_profile = buildMetricsByCategory(metrics)
+    return cleanForJson(category_profile.to_dict('records'))
 
 if __name__ == '__main__':
     df = loadBuyerFeatures('csv/buyerFeatures.csv')

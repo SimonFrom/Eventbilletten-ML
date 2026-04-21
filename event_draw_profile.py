@@ -123,7 +123,17 @@ def getEventDrawProfile(buyerFeaturesPath: str) -> list[dict]:
     profile = buildEventDrawProfile(df)
 
     # records make sure that the dict returned will have one item per row for c#
-    return profile.to_dict('records')
+    return cleanForJson(profile.to_dict('records'))
+
+def cleanForJson(data: list[dict]) -> list[dict]:
+    cleaned = []
+    for row in data:
+        clean_row = {
+            k: (None if isinstance(v, float) and np.isnan(v) else v)
+            for k, v in row.items()
+        }
+        cleaned.append(clean_row)
+    return cleaned
 
 # ---- Load feature list ----
 df = loadBuyerFeatures(path)
