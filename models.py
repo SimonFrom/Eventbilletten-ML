@@ -11,7 +11,7 @@ class EventDrawProfileModel(BaseModel):
     event_lat: Optional[float]
     max_amount: Optional[float]
     event_start: Optional[str]
-    total_orders: Optional[int]
+    total_orders: Optional[float]
     total_tickets: Optional[float]
     total_revenue: Optional[float]
     avg_spend_per_order: Optional[float]
